@@ -1,0 +1,307 @@
+img{
+	max-width:100%;
+}
+
+
+
+
+
+.header{
+	width:100%;
+	background-color:rgb(26, 171, 207);
+	
+}
+
+.header ul{
+	overflow:hidden;
+	
+}
+.header ul li{
+	float:left;
+
+	
+	color:white;
+	
+}
+.header ul li:first-child{
+	padding-left: 450px;
+	margin-left:0;
+}
+
+	
+
+
+.header li a{
+	text-decoration: none;
+	padding: 10px 30px;
+	font-size: 18px;
+	display: block;
+}	
+
+.header  li a:hover{
+color: red;
+background-color: rgb(212, 231, 38);
+}
+
+
+	
+	
+.logo{
+	height:100px;
+	overflow:hidden;
+	float:left;
+	width:1250px;
+	border:2px solid none;
+	margin-left:10px;
+	width:1293px;
+	padding-left:7px;
+	
+}
+.img{
+	
+	float:left;
+
+	
+}
+
+
+.cover{
+	width: 100%;
+	
+	
+}
+
+
+.mithila{
+	width:70%;
+	float:right;
+}
+.mithila ul{}
+.mithila ul li{
+	float:left;
+	padding-left:50px;
+}
+
+
+.cover{
+	height:500px;
+	width:1300px;
+	border:2px solid none;
+	
+}
+.rima{
+	height:270px;
+	width:220px;
+	border:2px solid none;
+	float:left;
+	margin:25px 0px;
+	padding:22px;
+	
+}
+.heading{
+	text-align-last: center;
+	background-color: rgb(209, 122, 22);
+	color: cornsilk;
+	font-size: 10px;
+	margin-top: 340px;;
+}
+.abc{
+	background-color:orange;
+	color:white;
+}
+
+
+.picture{
+	height:210px;
+	width:220px;
+	border:2px solid none;
+	float:left;
+	border:2px sollid red;
+	padding:22px;
+}
+.hosting {
+	width:22%;
+	float: left;
+	padding: 3px;
+	padding: 20px;
+	background-color:rgb(66, 56, 56);
+	color: cornsilk;
+	
+	
+}
+
+	
+	
+.hosting li{
+	list-style: none;
+	
+}
+.hosting h1{
+	color: rgb(17, 184, 17);
+}
+.hosting ul li:nth-child(2n+1){
+	color:#ffa500;
+}
+.hosting:hover{
+	
+	background-color: rgb(113, 117, 75);
+	}
+
+
+
+	
+}
+.rimage{
+	height:500px;
+
+	width:1500;
+	
+}
+
+.rpost{
+	height:400px;
+	width: 305px;
+	float: left;
+	padding: 12px;
+	margin-top:10px;
+	border: 2px solid red;
+}
+.rpost :hover{
+	background-color: rgb(131, 109, 109);
+}
+
+.para marquee{
+	margin-top:10px;
+	font-size: 25px;
+	color: blue;
+}
+.content{
+	height:400px;
+	margin-top: 10px;
+	
+		width: 652px;
+		float: left;
+		padding: 5px;
+		border: 2px solid black;
+		text-align: center;
+
+}
+.content h1{
+	color: rgb(62, 29, 94);
+}
+.relation{
+	border: 2px solod black;
+	height:350px;
+	width:100%;
+	text-align: center;
+	font-size: 23px;
+	background-color:white;
+	color: rgb(18, 18, 88);
+	margin-top: 100px;
+}
+
+
+
+
+.seopic{
+	border: 2px solid black;
+	height: 470px;
+	width:303px;
+	float: left;
+	padding: 10px;
+	margin: 10px 3px;
+	
+	
+
+
+}
+.seopic button{
+	background-color:orange ;
+	color:white;
+}
+.seopic button:hover{
+	background-color: turquoise;
+	color:red;
+}
+.seopic a{
+	text-decoration: none;
+	color: rgb(218, 56, 218);
+	font-size: 10;
+	
+}
+ .wp{
+	 border: 2px solid balck;
+	 height: 320px;
+	 width: 100%;
+	 text-align: center;
+	 font-size:25px;
+	 color: rgb(31, 23, 63);
+	 margin-top: 100px;
+ }
+
+ .staff h1{
+	 text-align: center;
+	 color: rgb(66, 35, 95);
+ }
+ .sudo{
+	 float: left;
+	 border: 2px solid none;
+	 width: 48%;
+	 padding: 1px;
+	 background-color:white;
+	 color: rgb(45, 31, 82);
+	 margin-left: 8px;
+ }
+ .sudo h1::before{
+	 content: '#';
+	 background-color: rgb(206, 178, 19);
+
+     font-size: 20x;
+ }
+
+ .rima3{
+	 width: 1000px;
+	 height: 300px;
+	 background-color: cadetblue;
+	 margin: 0 auto;
+
+}
+ 
+.rima3 video{
+	float: left;
+	width: 320px;
+	
+	padding: 5px;
+	height: 200px;
+}
+
+	
+ 
+
+ .input{
+	 border-radius: 30px;
+	 margin: 0 auto;
+	 margin-top: 170px;
+	 margin-bottom: 10px;
+	 height: 350px;
+	 width: 500px;
+	 text-align: center;
+	 background-color: rgb(42, 146, 87);
+	 color: blue;
+	 padding: 10px;
+ }
+  .input :focus{
+	  font-size: 20px;
+	  background-color:orange;
+	  color: #fd1100;
+	 
+	 
+}
+
+
+
+
+
+
+
+
